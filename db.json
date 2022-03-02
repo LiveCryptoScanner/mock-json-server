@@ -2,7 +2,7 @@
   "trend": [
     {
       "id": "1",
-      "pair": "KNCUSD",
+      "pair": "BTCUSD",
       "trend": "12",
       "hour": "6",
       "price": "24"
