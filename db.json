@@ -2,35 +2,45 @@
   "trend": [
     {
       "id": "1",
-      "pair": "BTCUSD",
-      "trend": "12",
+      "pair": "KNCUSD",
+      "trend": "1",
       "hour": "6",
-      "price": "24"
+      "price": "24",
+      "volume": "23452352"
     },
     {
       "id": "2",
-      "pair": "XRPUSD",
-      "trend": "43",
-      "hour": "23",
-      "price": "1"
+      "pair": "ADAUSD",
+      "trend": "-1",
+      "hour": "12",
+      "price": "4",
+      "volume": "5463423"
     },
     {
       "id": "3",
       "pair": "ETHUSD",
-      "trend": "33",
+      "trend": "0",
       "hour": "5",
-      "price": "15"
+      "price": "15",
+      "volume": "12423213"
     },
     {
       "id": "4",
       "pair": "SOLUSD",
-      "trend": "42",
+      "trend": "1",
       "hour": "2",
-      "price": "22"
+      "price": "22",
+      "volume": "5992347"
     }
   ],
   "items": [
-    { "id": 1, "name": "Apples",  "price": "$2" },
-    { "id": 2, "name": "Peaches", "price": "$5" }
+    { "id": "1", "name": "Apples",  "price": "$2" },
+    { "id": "2", "name": "Peaches", "price": "$5" }
+  ],
+  "topBullCoins": [
+    { "id": "1", "pair": "XTZUSD",  "price": "12",  "hour": "6",  "volume": "2400000" },
+    { "id": "2", "pair": "ADAUSD",  "price": "1.234",  "hour": "0",  "volume": "370000000" },
+    { "id": "3", "pair": "ETHUSD",  "price": "2.912",  "hour": "-6",  "volume": "2400000" },
+    { "id": "4", "pair": "LINKUSD",  "price": "305",  "hour": "14",  "volume": "60700000" }
   ]
 }
